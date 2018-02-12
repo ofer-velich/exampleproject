@@ -2,15 +2,19 @@
 
 set -ev
 
-echo "ls is:"
-ls
-echo "pwd is $PWD"
 GIT_COMMIT=`git rev-parse HEAD`
 echo "GIT_COMMIT: $GIT_COMMIT"
 
-cd ../ui
 echo "pwd is $PWD"
 
+
+echo "ls is:"
+ls
+
+echo "cd to ui"
+cd ui
+echo "pwd is $PWD"
+cd -
 #cd ../ui
 #echo `pwd`
 #docker run --rm -v $PWD:/data digitallyseamless/nodejs-bower-grunt npm install
