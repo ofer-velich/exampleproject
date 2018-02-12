@@ -10,5 +10,8 @@ cd ui
     docker run --rm -v $PWD:/data digitallyseamless/nodejs-bower-grunt grunt build --force
 cd -
 
-#docker build -t logzio/apollo:$GIT_COMMIT .
-#docker push logzio/apollo:$GIT_COMMIT
+docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
+
+
+#docker build -t ofervelich/test:$GIT_COMMIT .
+#docker push ofervelich/test:$GIT_COMMIT
