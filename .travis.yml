@@ -8,11 +8,11 @@ services:
   - docker
 
 script:
-  - echo $TRAVIS_COMMIT
-  - echo $TRAVIS_TAG
-  - echo $TRAVIS_BRANCH
-  - echo $TRAVIS_BUILD_NUMBER
-  - echo $TRAVIS_REPO_SLUG
-  - echo $PWD
+  - echo "TRAVIS_COMMIT: $TRAVIS_COMMIT"
+  - echo "TRAVIS_TAG: $TRAVIS_TAG"
+  - echo "TRAVIS_BRANCH: $TRAVIS_BRANCH"
+  - echo "TRAVIS_BUILD_NUMBER: $TRAVIS_BUILD_NUMBER"
+  - echo "TRAVIS_REPO_SLUG: $TRAVIS_REPO_SLUG"
+  - echo "PWD: $PWD"
 
 script: ./scripts/build.sh
