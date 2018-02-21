@@ -4,8 +4,8 @@ jdk:
 
 env:
   global:
-    - secure: caGYF1H+nGgMs3KaOLEt6Ne/CCq+KNps62WTx5aWewmt4J6Up+2+yhYIA9fLBZr1/XJHLg2ylwFkb97Q1NEqpC5HrFL9VISS/51TJGpmfgkZ6f8dwvHbI+MILYILHXGSyb0yBhx6vz/IZVYEMluci5Cw1JYSDYRWTRg8sBVWZscad3jfdLs4cQP851aaTEXRQEBwZhHfHOUTu6m6jMD7KSVJ8ObWPD++9is+Kcn6cvdNYr+RZRBBTgQsXFbtpjJyAcLvUDHBlipKbmDd8P0S1qGxEujepvPZUwQmPNgFh2BoDbDEndTKOvq1LfplbxBdeRDSu8TRWIom6mtn28iQmz23n/M1Gx2Sl+xvn2jqpAgPAFLW2voglsotsnjvSYXCZJOgMv9xtwpEequNzdKQO8JXmgiZHb4UJskZsvlhaZ6XGgJT425AJEJo/Qgn0YMCBrMt1GMX/xwKrnf/GJNyC8ldR5Ijq37weYUQ3kvbkmoM2JALVxqxxTEEGFh7M89/Pn1VYuE01gns4W5NicJ9fwfRVkWdiQY0wnxB/Idb3DCOckyZIwIEGjwmPet8bHZH087ljYxiDyUo5AWgAYdDMJA+O3XJkgV9fFguV8xHoqrH3O0r8agujipF/YpUGY3q3SY4I9TPqKzJS8fEDYAMcN6DOPPnQbozwC1OhZQcHNM=
-    - secure: IyUIfBLOcWjj0zxeq1dEIvs51HfSOzVlymelF9mwawFDbLIEUcIZF/mI+x1rKDMx24hVo4/ER8VZ4zzUYu3Cxo1he9ICq9SNODIeygbfsI1qfheALAf+MSLMW/tKG+U9BCJtn6MBh+J2dDO1bya8H+8A7OooqsThChf5CVbRtBfiDy0q8H3WCeRr9AxTZvvV9tToG09IQyhCqQHHE/4NFNuFLeqw6LlUGrjLVvYLUiIwc1/dQGUjc4OkrUEB7x680Uv3Lr17vYMTAiWZVh2nwSY9sFumNVfs01EV/PsW4UhlHmK66TJO3LfHg3DoUrCthvt+bZTRwD0C+4IZjTXB9x9Zc64zfEo8PKjDeZ4apa0KY/cvxiwPvX0GWZgFpz8FIBagZ+nDyJRraBuOpAbxogiCdVnaqJPB/YSo2tZl0GMNCDE02FrKfkcyXP3JpyJs3C7YfOdEEPXZWcMm1yqbWrus29hj6eYNRuGTzH6zKlDEhAlo8imlLxkFFG8SDQMUroXLQxQCMQu6ymboQq5MD9hF6aGaripSW8H0ZkuLny+D7KvLkeO6gYZYB+e0SdxTFCmLamg7Tx/Skde5ErBCKJKEaDhhPE+MjlF2xankjJxp/KGEHShKG0e7Tzux+9aM/SXyCTJ/h7kjVP9e0VyyaIpYZwg/1lQCyf//t0vYIMI=
+    - secure: 1jqRKUqtqSq4kZsH7PNzLAmExxWInZq3DHLbNuCXsYlWA2MguKbPjRlQtduDL7IQY+dWijwgqToql5SCHALubn75gfmElhX6h2p6qB7Ss9aPIW8AMw9BTMCS3kLHkKrr2F0ZjzDzQG/16o/2/PboN6vxRb/5uqQKQL9Vmf9e6IgBxWWslDEAYS4xAMxhzlEFWJtdbFMUUcfdOBtq97vt54T77ZLz0Jul9LKlb7y+++doRKR3Uhx0eb5lKDL3hYKH4GNaQXt7iEou7ub5HPeXO93zpkHsorlfLXC20t+jH3Ze2w9Sdvl1qStHg0oaGKC2aoOLuJcQSH5UFcJmbu9CnuHL296REAFNpp8N3wuQJpK/0V1o1MN+tChtKPNO1kdmzZCh9FkmLM7uCFJDLBKwNnpAx86jjDQNYmN/fBMZvvAavuPhhffiJmBvtos2DccEu8bEMSXuxD7Wfz2bmoRVCEeFVcgc+jxlO1BlfDWdsbPHPSIPQGkHiSQMwHWDxtafUaXirL93Qm5QTVgawDNGZGXtT0OXvXpXJXeVDifzuiTCrWY+uwAS3cxMOfV/XEmO+1u6HKMVpbdkGlYvfCEuOBvcHSyneipwXXDaZaxC0Nv5+Lpl/jjGy5AaDXbBcBWQ5tIWOCLX5sqbpLxwj/23f/TFq3ymafpUU7gm5qG/4XI=
+    - secure: 0yBUkgr4iktpZwQdI/gZEKvbe+kJIM412e9JGvOtgkIhtKIpZd/qr+BkQ30jdIgaIwmpbMEL483bXi7cvcxw8Ko+C+CoIC1WO8MAHJjxo6li1HdIg5mKzRT3aolO2ezMU4oAUJNuWvIzHmc6WgPHu8Xf5cKeUhu5UZKc9MzTsPlORIByU7gpY9Q1W7DELE8gzBsF4ThOqkSUtu+2fBfWzjuDwxq0UaDQ+kY8EPC+zYQ9tUyylujZFkDzQRJTLYr5a0Fb+yTkAMKQU1IcmK8nj5XhqhP5Yzqfci53HxlQXX8AkQuFeF6b1T7P7G8sTGKw8iPp4J0tNr2b23C4SZeL7VS2Rr7jUQ49E1F3rOPtTtFkNVa/+Zl4/bZPYuilC0BlNJ3YftmdojLpx4Amw4xb0gKYUCZbteZ2TDZgDGLDCBOgUOPQUQjIaVo5paooF7iJHjFjjGDgYX68hbTgB03eXZssL1Zuvde+c1Gsf8Tb5LZGAVfVn8J6G6cHaym/PZi+4eP6kiTFT1MNp4u0YjF/fimhvu8QkVkmBqz31rubv6ZfiKcvJdVYBxeYaEPzGXKYejibjCliBKI5aR8xkvzcM+YRD7HYH2KNjFeNw7j5jPA6NA8ciqaT0DSP6RfOvlmd7oC8dB6u0cT5BcNl1SOhbw+q8B9/j/PypUzaGa1DbD8=
 
 sudo: required
 
@@ -19,11 +19,11 @@ cache:
 install: ./mvnw install -DskipTests -Dgpg.skip
 
 script:
-  - ./ui/build.sh
-  - ./mvnw test
+  - ./mvnw test && ./ui/build.sh
 
 after_success:
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+  - export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH; else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
+  - if [ "$BRANCH" == "master" ]; then
     docker build -t ofervelich/test:$TRAVIS_COMMIT .;
     docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD";
     docker push ofervelich/test:$TRAVIS_COMMIT;
