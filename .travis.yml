@@ -25,6 +25,8 @@ script:
 after_success:
   - if [ "$BRANCH" == "master" ]; then
     docker build -t apollologzio/test:$TRAVIS_COMMIT .;
+    docker tag apollologzio/test:$TRAVIS_COMMIT logzio/apollo:latest
     docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD";
     docker push apollologzio/test:$TRAVIS_COMMIT;
+    docker push apollologzio/test:latest;
     fi
